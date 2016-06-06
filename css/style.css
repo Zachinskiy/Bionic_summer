@@ -7,6 +7,7 @@
     padding: 0;
     margin: 0;
     font-family: "PF BeauSans Pro";
+}
 
 .start{
     text-align: center;
@@ -21,6 +22,7 @@
     line-height: 600px;
     background: #7459d3;
 }
+
 
 /*BLOCK2*/
 
@@ -95,14 +97,12 @@
 
 /*BLOCK2 END*/
 
-
 .block_3_m{
     width: 100%;
     height: 600px;
     line-height: 600px;
     background: #d37c6f;
 }
-
 
 
 /*FRONT END+QA*/
@@ -131,7 +131,6 @@
 }
 
 /*FRONT END+QA END*/
-
 
 .block_5_a{
     width: 100%;
